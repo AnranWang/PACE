@@ -3,7 +3,7 @@
 	Handle all the data preprocessing, turning files to numpy files
 	Sample graph to generate labels
 
-	@author: Lanxiao Bai
+	@author: Lanxiao Bai, Ji Yang
 '''
 import numpy as np
 import ast
